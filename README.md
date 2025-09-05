@@ -15,7 +15,7 @@
 驗證集準確率：0.9742
 最佳模型於步驟 70000 儲存，準確率=0.8995。
 
-#Project Overview
+# Project Overview
 This Jupyter Notebook (hw04ab4f0f13df.ipynb) is an implementation for the Machine Learning Homework 4 (HW4) from National Taiwan University (NTU) 2021 Spring course. The task focuses on speaker classification using Transformer-based models, specifically leveraging self-attention mechanisms to classify speakers from preprocessed audio features (mel-spectrograms). The goal is to learn and apply Transformer architectures, including basic self-attention, parameter tuning, and advanced variants like Conformer.
 The notebook includes data loading, model definition, training, evaluation, and inference scripts. It achieves high accuracy on the validation set by fine-tuning Transformer parameters and incorporating techniques such as data segmentation during training.
 
